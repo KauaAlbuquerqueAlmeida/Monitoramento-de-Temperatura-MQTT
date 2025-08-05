@@ -1,0 +1,64 @@
+Nome: Kauã de Albuquerque Almeida
+--- LOG EM 2025-08-05 08:21:56 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:22:26 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:22:56 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:23:27 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:23:57 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:24:27 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:24:57 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:26:24 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:26:54 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:27:24 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:27:54 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:28:24 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:28:54 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:29:24 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:29:54 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:30:24 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:30:54 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:33:38 ---
+Nenhuma atividade de publisher registrada no �ltimo minuto.
+
+--- LOG EM 2025-08-05 08:34:08 ---
+T�pico: datacenter/temperatura | �ltimo Dado: Temperatura do servidor: 47.2 �C
+
+--- LOG EM 2025-08-05 08:34:38 ---
+T�pico: datacenter/temperatura | �ltimo Dado: Temperatura do servidor: 62.69 �C
+
+--- LOG EM 2025-08-05 08:35:08 ---
+T�pico: datacenter/temperatura | �ltimo Dado: Temperatura do servidor: 43.0 �C
+
