@@ -62,3 +62,657 @@ Tï¿½pico: datacenter/temperatura | ï¿½ltimo Dado: Temperatura do servidor: 62.69
 --- LOG EM 2025-08-05 08:35:08 ---
 Tï¿½pico: datacenter/temperatura | ï¿½ltimo Dado: Temperatura do servidor: 43.0 ï¿½C
 
+--- LOG EM 2025-08-05 10:16:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:17:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:17:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:18:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:18:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:19:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:19:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:20:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:20:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:21:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:21:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:22:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:22:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:23:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:23:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:24:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:24:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:25:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:25:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:26:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:26:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:27:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:27:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:28:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:28:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:29:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:29:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:30:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:30:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:31:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:31:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:32:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:32:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:33:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:33:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:34:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:34:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:35:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:35:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:36:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:36:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:37:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:37:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:38:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:38:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:39:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:39:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:40:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:40:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:41:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:41:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:42:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:42:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:43:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:43:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:44:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:44:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:45:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:45:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:46:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:46:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:47:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:47:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:48:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:48:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:49:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:49:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:50:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:50:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:51:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:51:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:52:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:52:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:53:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:53:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:54:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:54:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:55:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:55:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:56:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:56:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:57:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:57:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:58:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:58:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:59:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 10:59:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:00:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:00:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:01:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:01:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:02:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:02:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:03:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:03:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:04:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:04:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:05:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:05:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:06:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:06:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:07:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:07:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:08:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:08:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:09:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:09:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:10:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:10:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:11:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:11:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:12:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:12:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:13:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:13:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:14:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:14:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:15:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:15:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:16:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:16:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:17:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:17:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:18:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:18:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:19:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:19:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:20:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:20:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:21:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:21:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:22:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:22:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:23:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:23:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:24:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:24:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:25:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:25:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:26:15 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:26:45 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:27:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:27:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:28:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:28:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:29:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:29:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:30:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:30:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:31:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:31:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:32:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:32:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:33:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:33:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:34:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:34:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:35:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:35:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:36:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:36:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:37:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:37:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:38:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:38:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:39:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:39:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:40:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:40:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:41:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:41:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:42:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:42:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:43:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:43:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:44:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:44:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:45:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:45:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:46:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:46:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:47:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:47:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:48:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:48:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:49:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:49:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:50:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:50:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:51:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:51:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:52:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:52:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:53:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:53:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:54:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:54:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:55:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:55:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:56:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:56:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:57:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:57:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:58:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:58:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:59:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 11:59:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:00:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:00:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:01:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:01:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:02:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:02:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:03:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:03:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:04:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:04:46 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
+--- LOG EM 2025-08-05 12:05:16 ---
+Nenhuma atividade de publisher registrada no último minuto.
+
